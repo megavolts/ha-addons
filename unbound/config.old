@@ -16,7 +16,7 @@
   "ports_description": {
     "53/tcp, udp": "DNS server"
   },
-  "slug": "unbound",
+  "slug": "Unbound",
   "udev": true,
   "url": "https://github.com/megavolts/ha-addons",
   "version": "1.19.0"
