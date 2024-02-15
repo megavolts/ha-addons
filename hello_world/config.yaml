@@ -1,4 +1,4 @@
-name: "Hello world 2, repo based"
+name: "Hello world, repo based"
 description: "My first real add-on via github repo"
 version: "1.0.0"
 slug: "hello_world"

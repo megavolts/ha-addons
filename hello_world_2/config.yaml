@@ -1,7 +1,7 @@
-name: "Hello world, repo based"
-description: "My first real add-on via github repo"
-version: "1.0.0"
-slug: "hello_world"
+name: "Hello world 2, repo based"
+description: "My second real add-on via github repo"
+version: "1.0.1"
+slug: "hello_world_2"
 init: false
 arch:
   - aarch64
