@@ -1,6 +1,6 @@
 name: "unbound"
 description: "a recursive dns resolver as addon for home assistant"
-version: "1.19.0"
+version: "1.19.0-1"
 slug: "Unbound"
 init: false
 arch:
@@ -9,3 +9,7 @@ arch:
   - armhf
   - armv7
   - i386
+ports:
+  53/tcp: 5335
+  53/udp: 5335
+  
