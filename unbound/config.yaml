@@ -1,7 +1,7 @@
 name: "unbound"
 description: "a recursive dns resolver as addon for home assistant"
 version: "1.19.0"
-slug: "unbound"
+slug: "Unbound"
 init: false
 arch:
   - aarch64
