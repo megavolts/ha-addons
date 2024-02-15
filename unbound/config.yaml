@@ -10,6 +10,8 @@ arch:
   - armv7
   - i386
 ports:
-  5335:53/tcp
-  5335:53/udp
-  
+  53/tcp: 5335
+  53/udp: 5335
+ports_description:
+  8096/tcp: DNS tcp port
+  8920/udp: DNS udp port
